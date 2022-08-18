@@ -1,0 +1,4 @@
+- 👋 OI,sou o drezin
+- 🌱 Tenho 16 anos
+- 💞️ Solteiro.
+- Faço curso de programação
