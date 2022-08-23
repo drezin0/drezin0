@@ -1,4 +1,6 @@
+- Minha biografia do site
 - 👋 OI,sou o drezin
-- 🌱 Tenho 16 anos
+- :adult: Tenho 16 anos
 - 💞️ Solteiro.
-- Faço curso de programação
+- :student: Faço curso de programação
+- :camera: _dre_an_
